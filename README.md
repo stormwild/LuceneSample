@@ -15,6 +15,12 @@ java clean
 
 #### References
 
+## Security
+
+[Security issue](https://github.com/checkstyle/checkstyle/issues/6474) reported by github when using puppycrawl less than 8.18
+
+
+
 - [Visual Studio Code - Java - Import Errors and More](https://stackoverflow.com/questions/45743779/visual-studio-code-java-import-errors-and-more?rq=1)
 
 ## References
